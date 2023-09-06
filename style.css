@@ -1,0 +1,96 @@
+
+div{text-align: center;
+}
+
+
+header{text-align: center;
+    font-size: 50px;
+    color: limegreen;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.container {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    border-radius: 5%;
+}
+
+.rettangolo{
+    width: 80%;
+    height: 80px;
+    background-color: limegreen;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.giallo, .rosso, .verde{
+    padding-right: 2400px;
+
+}
+
+
+.rettangolo1{
+    width: 900px;
+    margin-left: 500px;
+    background-color: yellow;
+    height: 40px;
+    border-radius: 15%;
+}
+
+
+.rettangolo2{
+    height: 40px;
+    width: 2000px;
+    background-color: limegreen;
+    border-radius: 15%;
+    margin-left: 500px;
+}
+
+
+.rettangolo3{
+    height: 40px;
+    width: 400px;
+    background-color: red;
+    border-radius: 15%;
+    margin-left: 500px;
+    margin-bottom: 400px;
+}
+
+
+h1 {
+    font-size: 60px;
+    color: white;
+    padding-right: 650px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+span{
+    font-size: 50px;
+    color: white;
+    padding-right: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+p{
+    font-size: 50px;
+    color: white;
+    padding-right: 900px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
